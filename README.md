@@ -12,3 +12,4 @@ addEventListener(
   }
 )
 ```
+vless trojan-go
